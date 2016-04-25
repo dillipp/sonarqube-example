@@ -1,0 +1,5 @@
+projectKey=my:project
+serverUrl=http://sonarqube.it.dh-karlsruhe.de
+dashboardUrl=http://sonarqube.it.dh-karlsruhe.de/dashboard/index/my:project
+ceTaskId=AVRPGrMVshp99MZ926vv
+ceTaskUrl=http://sonarqube.it.dh-karlsruhe.de/api/ce/task?id=AVRPGrMVshp99MZ926vv
